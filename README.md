@@ -5,7 +5,7 @@ Examples below can be viewed and run on GitHub Pages at: [https://pa-nik.github.
 
 ### class 01
 
-[Hello Python!](class01/hello-python/)   
+[Hello Python!](class01/hello-python.html)   
 
 ### class 02  
 

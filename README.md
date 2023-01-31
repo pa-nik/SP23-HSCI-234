@@ -24,5 +24,6 @@ Examples below can be viewed and run on GitHub Pages at:
 [2.1 Basic Shapes](class02/2.1-basic-shapes/) - drawing geometric shapes  
 [2.2 Shapes Properties](class02/2.2-shape-properties/) - stroke weight, cap, join properties  
 [2.3 Colors](class02/2.3-colors/) - fill and stroke colors  
+[2.4 Drawing with Variables](class02/2.4-drawing-with-variables/) - variables in drawing functions  
 [Practice Example](class02/practice-example/) - in-class coding  
 [Glossary](class02/glossary.md) - computer science terms  

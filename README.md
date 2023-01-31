@@ -21,8 +21,8 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 02  
 
 [Begin P5](class02/begin-p5/) - blank template   
-[Basic Shapes](class02/2.1-basic-shapes/) - drawing geometric shapes  
-[Shapes Properties](class02/2.2-shape-properties/) - stroke weight, cap, join properties  
-[Colors](class02/2.3-colors/) - fill and stroke colors  
+[2.1 Basic Shapes](class02/2.1-basic-shapes/) - drawing geometric shapes  
+[2.2 Shapes Properties](class02/2.2-shape-properties/) - stroke weight, cap, join properties  
+[2.3 Colors](class02/2.3-colors/) - fill and stroke colors  
 [Practice Example](class02/practice-example/) - in-class coding  
 [Glossary](class02/glossary.md) - computer science terms  

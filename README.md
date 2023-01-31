@@ -7,8 +7,11 @@ Examples below can be viewed and run on GitHub Pages at:
 ### resources  
    
 [Editing files on GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) - how to edit files in your repository  
+   
 [Creating a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) - how to deploy your repository as a website  
+   
 [raw.githack.com](https://raw.githack.com/) - use this site to preview your `index.html` (raw version) by replacing raw.githubusercontent.com in the URL with raw.githack.com  
+   
 [p5.js Reference](https://p5js.org/reference/) - this reference uses the JavaScript syntax, but usage is almost the same in PyScript, just add `p5.` at the beginning of each function name or p5 variable.  
   
 ### class 01

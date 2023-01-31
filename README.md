@@ -13,5 +13,6 @@ Examples below can be viewed and run on GitHub Pages at:
 [Begin P5](class02/begin-p5/) - blank template   
 [Basic Shapes](class02/p5-basic-shapes/) - drawing geometric shapes  
 [Shapes Properties](class02/p5-shape-properties/) - stroke weight, cap, join properties  
+[Colors](class02/p5-colors/) - fill and stroke colors  
 [Practice Example](class02/practice-example/) - in-class coding  
 [Glossary](class02/glossary.md) - computer science terms  

@@ -10,8 +10,8 @@ Examples below can be viewed and run on GitHub Pages at:
 
 ### class 02  
 
-[Begin P5](class02/begin-p5/) (blank template)   
-[Basic Shapes](class02/p5-basic-shapes/) (drawing geometric shapes)  
-[Shapes Properties](class02/p5-shape-properties/) (stroke weight, cap, join properties)  
-[Practice Example](class02/practice-example/) (in-class coding)  
-[Glossary](class02/glossary.md) (computer science terms)  
+[Begin P5](class02/begin-p5/) - blank template   
+[Basic Shapes](class02/p5-basic-shapes/) - drawing geometric shapes  
+[Shapes Properties](class02/p5-shape-properties/) - stroke weight, cap, join properties  
+[Practice Example](class02/practice-example/) - in-class coding  
+[Glossary](class02/glossary.md) - computer science terms  

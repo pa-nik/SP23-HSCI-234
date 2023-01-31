@@ -11,4 +11,5 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 02  
 
 [Begin P5](class02/begin-p5/) (blank template)   
-[Practice Example](class02/practice-example/)  
+[Practice Example](class02/practice-example/) (in-class coding)  
+[Glossary](class02/glossary.md) (computer science terms)  

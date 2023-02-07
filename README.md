@@ -31,3 +31,4 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 03   
    
 [3.1 Transformation Functions](class03/3.1-transformation-functions/) - using transformations like translate, rotate, scale   
+[3.2 Defining Functions](class03/3.2-defining-functions/) - how to define and call functions   

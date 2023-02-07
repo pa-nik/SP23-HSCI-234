@@ -16,11 +16,11 @@ Examples below can be viewed and run on GitHub Pages at:
   
 ### class 01
 
-[Hello Python!](class01/hello-python.html)   
+[Hello Python!](class01/hello-python.html) - PyScript terminal (REPL)  
 
 ### class 02  
 
-[Begin P5](class02/begin-p5/) - blank template   
+[Begin P5](class02/begin-p5/) - blank p5 library template   
 [2.1 Basic Shapes](class02/2.1-basic-shapes/) - drawing geometric shapes  
 [2.2 Shapes Properties](class02/2.2-shape-properties/) - stroke weight, cap, join properties  
 [2.3 Colors](class02/2.3-colors/) - fill and stroke colors  

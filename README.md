@@ -27,3 +27,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [2.4 Drawing with Variables](class02/2.4-drawing-with-variables/) - variables in drawing functions  
 [Practice Example](class02/practice-example/) - in-class coding  
 [Glossary](class02/glossary.md) - computer science terms  
+   
+### class 03   
+   
+[3.1 Transformation Functions](class03/3.1-transformation-functions/) - using transformations like translate, rotate, scale   

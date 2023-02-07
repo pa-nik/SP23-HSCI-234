@@ -25,7 +25,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [2.2 Shapes Properties](class02/2.2-shape-properties/) - stroke weight, cap, join properties  
 [2.3 Colors](class02/2.3-colors/) - fill and stroke colors  
 [2.4 Drawing with Variables](class02/2.4-drawing-with-variables/) - variables in drawing functions  
-[Practice Example](class02/practice-example/) - in-class coding  
+[Practice Examples](class02/practice-examples/) - in-class practice examples  
 [Glossary](class02/glossary.md) - computer science terms  
    
 ### class 03   
@@ -34,4 +34,5 @@ Examples below can be viewed and run on GitHub Pages at:
 [3.2 Random Function](class03/3.2-random-function/) - using randomness     
 [3.3 Transformation Functions](class03/3.3-transformation-functions/) - using transformations like translate, rotate, scale   
 [3.4 Defining Functions](class03/3.4-defining-functions/) - how to define and call functions   
+[Practice Examples](class03/practice-examples/) - in-class practice examples  
 [Flower Exercise](class03/flower-exercise/) - drawing with transformations, functions and repetition   

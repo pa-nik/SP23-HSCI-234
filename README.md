@@ -30,7 +30,7 @@ Examples below can be viewed and run on GitHub Pages at:
    
 ### class 03   
    
-[3.1 Built-in p5 Variables](class03/3.1-built-in-variables/) - p5.width, p5.height, p5.mouseX and p5.mouseY variables   
+[3.1 Built-in p5 Variables](class03/3.1-built-in-variables/) - `p5.width`, `p5.height`, `p5.mouseX` and `p5.mouseY` variables   
 [3.2 Random Function](class03/3.2-random-function/) - using randomness     
 [3.3 Transformation Functions](class03/3.3-transformation-functions/) - using transformations like translate, rotate, scale   
 [3.4 Defining Functions](class03/3.4-defining-functions/) - how to define and call functions   
@@ -41,7 +41,7 @@ Examples below can be viewed and run on GitHub Pages at:
    
 [4.1 Global Variables](class04/4.1-global-variables/) - using global variables   
 [4.2 Conditionals](class04/4.2-conditionals/) - conditions, relational and logical operators   
-[4.3 Mouse Conditions](class04/4.3-mouse-conditions/) - conditions with p5.mouseIsPressed, p5.mouseButton  
-[4.4 Key Conditions](class04/4.4-key-conditions/) - conditions with p5.keyIsPressed, p5.key, p5.keyCode   
+[4.3 Mouse Conditions](class04/4.3-mouse-conditions/) - conditions with `p5.mouseIsPressed`, `p5.mouseButton`  
+[4.4 Key Conditions](class04/4.4-key-conditions/) - conditions with `p5.keyIsPressed`, `p5.key`, `p5.keyCode`   
 [Practice Examples (Terminal)](class04/practice-examples-terminal)   
 [Practice Examples (p5)](class04/practice-examples-p5/)   

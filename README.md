@@ -40,3 +40,4 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 04   
    
 [Practice Examples (Terminal)](class04/practice-examples-terminal)   
+[Practice Examples (p5)](class04/practice-examples-p5/)   

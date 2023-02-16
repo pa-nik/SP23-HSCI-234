@@ -40,5 +40,8 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 04   
    
 [4.1 Global Variables](class04/4.1-global-variables/) - using global variables   
+[4.2 Conditionals](class04/4.2-conditionals/) - conditions, relational and logical operators   
+[4.3 Mouse Conditions](class04/4.3-mouse-conditions/) - conditions with p5.mouseIsPressed, p5.mouseButton  
+[4.4 Key Conditions](class04/4.4-key-conditions/) - conditions with p5.keyIsPressed, p5.key, p5.keyCode   
 [Practice Examples (Terminal)](class04/practice-examples-terminal)   
 [Practice Examples (p5)](class04/practice-examples-p5/)   

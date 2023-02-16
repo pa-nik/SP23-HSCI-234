@@ -36,3 +36,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [3.4 Defining Functions](class03/3.4-defining-functions/) - how to define and call functions   
 [Practice Examples](class03/practice-examples/) - in-class practice examples  
 [Flower Exercise](class03/flower-exercise/) - drawing with transformations, functions and repetition   
+   
+### class 04   
+   
+[Practice Examples (Terminal)](class04/practice-examples-terminal)   

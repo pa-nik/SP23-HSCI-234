@@ -30,7 +30,7 @@ Examples below can be viewed and run on GitHub Pages at:
    
 ### class 03   
    
-[3.1 Built-in p5 Variables](class03/3.1-built-in-variables/) - `p5.width`, `p5.height`, `p5.mouseX` and `p5.mouseY` variables   
+[3.1 Built-in p5 Variables](class03/3.1-built-in-variables/) - `p5.width`, `p5.height`, `p5.mouseX`, `p5.mouseY` variables   
 [3.2 Random Function](class03/3.2-random-function/) - using randomness     
 [3.3 Transformation Functions](class03/3.3-transformation-functions/) - using transformations like translate, rotate, scale   
 [3.4 Defining Functions](class03/3.4-defining-functions/) - how to define and call functions   

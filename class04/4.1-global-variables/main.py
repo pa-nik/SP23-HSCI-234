@@ -17,6 +17,6 @@ def draw():
     p5.push()
     p5.translate(p5.width/2, p5.height/2)  # translate to middle
     p5.rotate(angle)  # rotate by angle
-    p5.rect(0, 0, 50, 50)
+    p5.rect(0, 0, 100, 100)
     angle = angle + 0.05  # increment angle
     p5.pop()

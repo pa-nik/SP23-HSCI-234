@@ -52,6 +52,6 @@ Examples below can be viewed and run on GitHub Pages at:
    
 [5.1 Function Return Value](class05/5.1-function-return-value) - using function `return` statement  
 [5.2 Button Functions](class05/5.2-rectangle-button) - creating buttons with functions and return values    
-[Pong V1](class05/pong-v1/)   
+[Pong V1](class05/pong-v1/) - version 1 of Pong game   
 [Practice Examples](class05/practice-examples)   
 [Glossary](class05/glossary.md)  

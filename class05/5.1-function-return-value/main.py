@@ -13,8 +13,13 @@ def draw():
     p5.background(255)    
     p5.fill(0)
 
-    p5.text("get_sum(2, 2) = " + str(get_sum(2, 2)), 10, 20)
-    p5.text("do_sum(2, 2) = " + str(do_sum(2, 2)), 10, 35)
+    a = 2
+    b = 2
+    c = get_sum(a, b)  # c is the output or result of get_sum function
+    p5.text("get_sum(2, 2) = " + str(c), 10, 20)
+
+    c = do_sum(a, b)  # c is None because do_sum has no output 
+    p5.text("do_sum(2, 2) = " + str(c), 10, 35)
 
     # the distance between center of circle and mouse cursor:
     d = get_distance(circle_x, circle_y, p5.mouseX, p5.mouseY)
@@ -39,14 +44,14 @@ def draw():
     p5.fill(0)
     p5.text("cursor_inside_circle() = " + str(cursor_inside_circle()), 10, 50)
     
-# function that returns the sum of x + y:
-def get_sum(x, y):
-    sum = x + y
+# function that returns the sum of a + b:
+def get_sum(a, b):
+    sum = a + b
     return sum  # the output of this function is sum
 
-# function that computes x + y, but has no return statement:
-def do_sum(x, y):
-    sum = x + y
+# function that computes a + b, but has no return statement:
+def do_sum(a, b):
+    sum = a + b
     # the output of this function is the keyword None
 
 # function that returns distance between points (x1, y1) and (x2, y2)

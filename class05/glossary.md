@@ -1,3 +1,5 @@
+## Class 05 Glossary  
+  
 **return value:** The result or output of a function if it contains a return statement (return keyword followed by a variable, expression, or value)   
 
 **return statement:** The line of code beginning with the `return` keyword, which terminates a function and returns its value.  

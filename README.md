@@ -46,6 +46,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [4.4 Key Conditions](class04/4.4-key-conditions/) - conditions with `p5.keyIsPressed`, `p5.key`, `p5.keyCode`   
 [Practice Examples (Terminal)](class04/practice-examples-terminal)   
 [Practice Examples (p5)](class04/practice-examples-p5/)   
+[Glossary](class04/glossary.md)  
    
 ### class 05   
    

@@ -54,3 +54,4 @@ Examples below can be viewed and run on GitHub Pages at:
 [5.2 Button Functions](class05/5.2-rectangle-button) - creating buttons with functions and return values    
 [Pong V1](class05/pong-v1/)   
 [Practice Examples](class05/practice-examples)   
+[Glossary](class05/glossary.md)  

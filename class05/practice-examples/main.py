@@ -95,8 +95,8 @@ def is_inside_circle(x, y):
 # function returns True if (x, y) are inside rectangle, False otherwise: 
 def is_inside_rect(x, y):
     # using backslash (\) character to break up a long line of code:
-    if(p5.mouseX > rect_x) and (p5.mouseX < rect_x + rect_w) \
-    and (p5.mouseY > rect_y) and (p5.mouseY < rect_y + rect_h):
+    if(x > rect_x) and (x < rect_x + rect_w) \
+    and (y > rect_y) and (y < rect_y + rect_h):
         return True
     else:
         return False

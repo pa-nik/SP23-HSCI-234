@@ -1,3 +1,5 @@
+## Class 02 Glossary  
+  
 **variable:** A name that refers to a value.  
   
 **assignment:** A statement that assigns a value to a variable.  

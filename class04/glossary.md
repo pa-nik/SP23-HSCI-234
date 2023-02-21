@@ -1,3 +1,5 @@
+## Class 04 Glossary  
+  
 **conditional statement:** A statement that controls the flow of execution depending on some condition.  
   
 **condition:** The boolean expression in a conditional statement that determines which branch runs.  

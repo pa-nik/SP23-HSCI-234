@@ -1,3 +1,5 @@
+## Class 03 Glossary  
+  
 **function:** A named sequence of statements that performs some useful operation. Functions may or may not take arguments and may or may not produce a result.  
    
 **function definition:** A statement that creates a new function, specifying its name, parameters, and the statements it contains.  

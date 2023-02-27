@@ -2,7 +2,7 @@ import js
 p5 = js.window
 
 def setup():
-    p5.createCanvas(300, 300)    # 300 x 300 pixel canvas 
+    p5.createCanvas(300, 300)  
     print('finished setup..')
 
 def draw():

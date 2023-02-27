@@ -55,3 +55,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [Pong V1](class05/pong-v1/) - version 1 of Pong game   
 [Practice Examples](class05/practice-examples)   
 [Glossary](class05/glossary.md)  
+   
+### class 06   
+   
+[6.1 Event Functions](class06/6.1-event-functions) - using events like  `mousePressed()`, `mouseReleased()`, etc.   

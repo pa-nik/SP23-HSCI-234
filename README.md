@@ -25,7 +25,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [2.2 Shapes Properties](class02/2.2-shape-properties/) - stroke weight, cap, join properties  
 [2.3 Colors](class02/2.3-colors/) - fill and stroke colors  
 [2.4 Drawing with Variables](class02/2.4-drawing-with-variables/) - variables in drawing functions  
-[Practice Examples](class02/practice-examples/) - in-class practice examples  
+[In-Class Practice](class02/practice-examples/) - in-class practice examples  
 [Glossary](class02/glossary.md) - computer science terms  
    
 ### class 03   
@@ -34,7 +34,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [3.2 Random Function](class03/3.2-random-function/) - using randomness     
 [3.3 Transformation Functions](class03/3.3-transformation-functions/) - using transformations like translate, rotate, scale   
 [3.4 Defining Functions](class03/3.4-defining-functions/) - how to define and call functions   
-[Practice Examples](class03/practice-examples/) - in-class practice examples  
+[In-Class Practice](class03/practice-examples/) - in-class practice examples  
 [Flower Exercise](class03/flower-exercise/) - drawing with transformations, functions and repetition   
 [Glossary](class03/glossary.md)  
 
@@ -44,8 +44,8 @@ Examples below can be viewed and run on GitHub Pages at:
 [4.2 Conditionals](class04/4.2-conditionals/) - conditions, relational and logical operators   
 [4.3 Mouse Conditions](class04/4.3-mouse-conditions/) - conditions with `p5.mouseIsPressed`, `p5.mouseButton`  
 [4.4 Key Conditions](class04/4.4-key-conditions/) - conditions with `p5.keyIsPressed`, `p5.key`, `p5.keyCode`   
-[Practice Examples (Terminal)](class04/practice-examples-terminal)   
-[Practice Examples (p5)](class04/practice-examples-p5/)   
+[In-Class Practice (Terminal)](class04/practice-examples-terminal)   
+[In-Class Practice (p5)](class04/practice-examples-p5/)   
 [Glossary](class04/glossary.md)  
    
 ### class 05   
@@ -53,7 +53,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [5.1 Function Return Value](class05/5.1-function-return-value) - using function `return` statement  
 [5.2 Button Functions](class05/5.2-button-functions) - creating buttons with functions and return values    
 [Pong V1](class05/pong-v1/) - version 1 of Pong game   
-[Practice Examples](class05/practice-examples)   
+[In-Class Practice](class05/practice-examples)   
 [Glossary](class05/glossary.md)  
    
 ### class 06   
@@ -61,3 +61,4 @@ Examples below can be viewed and run on GitHub Pages at:
 [6.1 Event Functions](class06/6.1-event-functions) - using events like  `mousePressed()`, `keyPressed()`, etc.   
 [6.2 Program State](class06/6.2-program-state) - using state machine for program behavior  
 [6.3 Timing](class06/6.3-timing) - using `p5.millis()` function for timing  
+[In-Class Practice](class06/practice-examples)  

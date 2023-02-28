@@ -1,0 +1,162 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.js"></script>
+    <script>
+      window.onerror = function(msg, url, linenumber) {
+        alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
+        return true;
+      }
+    </script>
+    <style>
+      body {
+        background-color: #efefef;
+        /*background-color: #aaaaaa;*/
+      }
+      
+      py-repl {
+          position: absolute;
+          top: 45px;
+          left: 318px;
+          width: calc(100% - 325px);
+          height: calc(100% - 265px);
+          overflow-y: auto;
+          scroll-behavior: smooth;
+          border-width: 2px;
+          border-color: black;
+          background-color: #cccccc;
+      }
+
+      py-repl.code {
+        border-width: 4px;
+        border-color: black;
+        height: 300px;
+      }
+      /* code area only */
+      .py-repl-box {
+        background-color: #eeeeee;
+      }
+      py-repl::-webkit-scrollbar-track {
+        background: #808080;
+      }
+      py-repl::-webkit-scrollbar-thumb {
+        background: #cccccc; 
+      }
+      py-repl::-webkit-scrollbar {
+        width: 15px;
+      }
+      py-terminal {
+        position: absolute;
+        left: 0px;
+        top: calc(100% - 215px);
+        width: calc(100%);
+        height: 215px;
+        overflow-y: auto;
+        scroll-behavior: auto;
+        background: black;
+      }
+      py-terminal::-webkit-scrollbar-track {
+        background: #999999;
+      }
+      py-terminal::-webkit-scrollbar-thumb {
+        background: #cccccc; 
+      }
+      py-terminal::-webkit-scrollbar {
+        width: 15px;
+      }
+
+      /*defaultCanvas0 */
+      .p5Canvas
+      {
+        position: absolute;
+        left: 10px;
+        top: 45px;
+        float: left;
+      }
+      .refresh-btn
+      {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+      }
+      .save-btn
+      {
+        position: absolute;
+        left: 318px;
+        top: 10px;
+      }
+      .load-btn
+      {
+        position: absolute;
+        left: 475px;
+        top: 10px;
+      }
+      </style>
+  </head>
+  <body>
+    
+    <py-config type="toml">
+        [[fetch]]
+        files = ["./main.py"]
+    </py-config>
+  
+    <py-script id="output">
+      from pyodide.ffi import create_proxy
+      from main import *
+      from js import localStorage
+      
+      def run(*args):
+        draw()
+        p5.requestAnimationFrame(create_proxy(run)) 
+        p5.keyPressed = create_proxy(keyPressed)
+        p5.keyReleased = create_proxy(keyReleased) 
+        p5.mousePressed = create_proxy(mousePressed) 
+        p5.mouseReleased = create_proxy(mouseReleased)
+
+      def save_code():
+        text = js.document.getElementsByClassName("cm-content")[0].innerText
+        localStorage.setItem("code", text)
+      
+      def load_code():
+        if localStorage.getItem("code"):
+          code_text = localStorage.getItem("code")
+          js.document.getElementsByClassName("cm-content")[0].innerText = code_text
+
+      def reload_sketch():
+        setup()  # re-run setup
+        # (re-)position the code element to the right of canvas:
+        code_element =  Element("code").element
+        p5_element = Element("defaultCanvas0").element
+        code_element.style.left = str(p5_element.clientWidth + 20) + 'px'
+        code_element.style.width = f'calc(100% - {p5_element.clientWidth + 30}px)'
+      setup()
+      run()
+    </py-script>
+
+    <py-repl id="code"></py-repl>
+    
+    <script>
+      function setup() {}
+      code = document.getElementById("code")
+      var client = new XMLHttpRequest();
+      client.open('GET', './main.py');
+      client.onreadystatechange = function() {
+        code.innerHTML = client.responseText;
+      }
+      client.send();
+    </script>
+
+    <div class="refresh-btn">
+      <button id="reload-sketch" py-click="reload_sketch()">Refresh Canvas</button>
+    </div>
+    <div class="save-btn">
+      <button id="save-code" py-click="save_code()">Save to Memory</button>
+    </div>
+    <div class="load-btn">
+      <button id="load-code" py-click="load_code()">Load from Memory</button>
+    </div>
+    
+  </body>
+</html>

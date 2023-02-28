@@ -61,4 +61,5 @@ Examples below can be viewed and run on GitHub Pages at:
 [6.1 Event Functions](class06/6.1-event-functions) - using events like  `mousePressed()`, `keyPressed()`, etc.   
 [6.2 Program State](class06/6.2-program-state) - using state machine for program behavior  
 [6.3 Timing](class06/6.3-timing) - using `p5.millis()` function for timing  
+[Pong V2](class06/pong-v2/) - Pong game with program state and timer  
 [In-Class Practice](class06/practice-examples)  

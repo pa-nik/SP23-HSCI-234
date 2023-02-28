@@ -51,7 +51,7 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 05   
    
 [5.1 Function Return Value](class05/5.1-function-return-value) - using function `return` statement  
-[5.2 Button Functions](class05/5.2-rectangle-button) - creating buttons with functions and return values    
+[5.2 Button Functions](class05/5.2-button-functions) - creating buttons with functions and return values    
 [Pong V1](class05/pong-v1/) - version 1 of Pong game   
 [Practice Examples](class05/practice-examples)   
 [Glossary](class05/glossary.md)  
@@ -59,3 +59,5 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 06   
    
 [6.1 Event Functions](class06/6.1-event-functions) - using events like  `mousePressed()`, `mouseReleased()`, etc.   
+[6.2 Program State](class06/6.2-program-state) - using state machine for program behavior  
+[6.3 Timing](class06/6.3-timing) - using `p5.millis()` function for timing  

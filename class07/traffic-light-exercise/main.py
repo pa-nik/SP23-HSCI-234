@@ -29,7 +29,6 @@ def setup():
 	    
 def draw():
     p5.background(0)
-    traffic_light.draw()
 
 def keyPressed(event):
     pass 

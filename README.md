@@ -63,3 +63,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [6.3 Timing](class06/6.3-timing) - using `p5.millis()` function for timing  
 [Pong V2](class06/pong-v2/) - Pong game with program state and timer  
 [In-Class Practice](class06/practice-examples)  
+  
+### class 07   
+   
+[In-Class Practice](class07/practice-examples)   

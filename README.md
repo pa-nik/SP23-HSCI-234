@@ -67,3 +67,4 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 07   
    
 [In-Class Practice](class07/practice-examples)   
+[Traffic Light Exercise](class07/traffic-light-exercise/)  

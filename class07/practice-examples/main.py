@@ -68,15 +68,14 @@ def draw():
 
 
 def keyPressed(event):
-    print('keyPressed.. ' + str(p5.key))
+    pass
 
 def keyReleased(event):
-    print('keyReleased.. ' + str(p5.key))
+    pass
 
 def mousePressed(event):
     print('mousePressed..')
     point_obj.set_point(new_x = p5.mouseX, new_y = p5.mouseY)
 
-
 def mouseReleased(event):
-    print('mouseReleased..')
+    pass

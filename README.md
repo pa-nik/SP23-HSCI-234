@@ -66,5 +66,6 @@ Examples below can be viewed and run on GitHub Pages at:
   
 ### class 07   
    
+[7.1 Object Attributes](class07/7.1-object-attributes) - using objects and their attributes    
 [In-Class Practice](class07/practice-examples)   
 [Traffic Light Exercise](class07/traffic-light-exercise/)  

@@ -71,3 +71,4 @@ Examples below can be viewed and run on GitHub Pages at:
 [7.3 Initializing Objects](class07/7.3-init-method) - using the `__init__` method to initialize objects  
 [In-Class Practice](class07/practice-examples)   
 [Traffic Light Exercise](class07/traffic-light-exercise/)  
+[Glossary](class07/glossary.md)  

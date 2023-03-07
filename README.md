@@ -14,8 +14,12 @@ Examples below can be viewed and run on GitHub Pages at:
    
 [p5.js Reference](https://p5js.org/reference/) - this reference uses the JavaScript syntax, but usage is almost the same in PyScript, just add `p5.` at the beginning of each function name or p5 variable.  
   
-### class 01
+### code template  
 
+[PyScript + P5](pyscript-p5-template/) - new p5 library template including event functions  
+  
+### class 01  
+  
 [Hello Python!](class01/hello-python.html) - PyScript terminal (REPL)  
 
 ### class 02  

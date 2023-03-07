@@ -67,6 +67,7 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 07   
    
 [7.1 Object Attributes](class07/7.1-object-attributes) - using objects and their attributes  
-[7.2 Object Methods](class07/7.2-object-methods) - using objects methods      
+[7.2 Object Methods](class07/7.2-object-methods) - using objects methods  
+[7.3 __init__ Method](class07/7.2-object-methods) - using `__init__` method to initialize objects  
 [In-Class Practice](class07/practice-examples)   
 [Traffic Light Exercise](class07/traffic-light-exercise/)  

@@ -76,3 +76,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [In-Class Practice](class07/practice-examples)   
 [Traffic Light Exercise](class07/traffic-light-exercise/)  
 [Glossary](class07/glossary.md)  
+  
+### class 08   
+   
+[8.1 Drawing Images](class08/8.1-drawing-images)  

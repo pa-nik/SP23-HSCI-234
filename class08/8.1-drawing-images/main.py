@@ -8,7 +8,7 @@ img1 = p5.loadImage('invader_1.png');  # load image data to img1
 img2 = p5.loadImage('invader_2.png');  # load image data to img2 
 
 def setup():
-    p5.createCanvas(300, 300)    # 300 x 300 pixel canvas 
+    p5.createCanvas(300, 300)   
 
 def draw():
     p5.background(255)

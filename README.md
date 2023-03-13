@@ -79,5 +79,7 @@ Examples below can be viewed and run on GitHub Pages at:
   
 ### class 08   
    
-[8.1 Drawing Images](class08/8.1-drawing-images)  
-[8.2 Drawing Text](class08/8.2-drawing-text)  
+[8.1 Drawing Images](class08/8.1-drawing-images) - using images 
+[8.2 Drawing Text](class08/8.2-drawing-text) - using fonts  
+[8.3 Encapsulation & Abstraction](class08/8.3-encapsulation-abstraction) - encapsulation and abstraction in OOP  
+  

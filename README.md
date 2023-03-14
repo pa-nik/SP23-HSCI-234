@@ -82,4 +82,4 @@ Examples below can be viewed and run on GitHub Pages at:
 [8.1 Drawing Images](class08/8.1-drawing-images) - using `p5.loadImage`, `p5.image` functions  
 [8.2 Drawing Text](class08/8.2-drawing-text) - using `p5.loadFont`, `p5.textFont`, `p5.text` functions  
 [8.3 Encapsulation & Abstraction](class08/8.3-encapsulation-abstraction) - encapsulation and abstraction in OOP  
-[Space Invaders V1](class08/space-invaders-v1) - Space Invaders game V1 
+[Space Invaders V1](class08/space-invaders-v1) - version 1 of Space Invaders game  

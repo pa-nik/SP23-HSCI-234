@@ -86,5 +86,6 @@ Examples below can be viewed and run on GitHub Pages at:
   
 ### class 09   
    
+[9.1 Inheritance & Polymorphism](class09/9.1-inheritance-polymorphism) - inheritance and polymorphism in OOP  
 [In-Class Practice](class09/practice-examples)  
 [Space Invaders V2](class09/space-invaders-v2) -  Template for version 2 of Space Invaders game  

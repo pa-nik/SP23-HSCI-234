@@ -91,4 +91,7 @@ Examples below can be viewed and run on GitHub Pages at:
 [9.3 List as Sequence](class09/9.3-list-sequence) - using lists, list slicing and methods  
 [9.4 List of Objects](class09/9.4-list-of-objects) - creating and manipulating a list of objects  
 [In-Class Practice](class09/practice-examples)  
+
+### class 10   
+   
 [Space Invaders V2](class09/space-invaders-v2) -  Template for version 2 of Space Invaders game  

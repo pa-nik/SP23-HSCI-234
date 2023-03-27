@@ -94,4 +94,4 @@ Examples below can be viewed and run on GitHub Pages at:
   
 ### class 10   
    
-[Space Invaders V2](class09/space-invaders-v2) -  Template for version 2 of Space Invaders game  
+[Space Invaders V2](class10/space-invaders-v2) -  Template for version 2 of Space Invaders game  

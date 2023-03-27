@@ -67,7 +67,7 @@ def setup():
     p5.createCanvas(300, 300)  
     p5.rectMode(p5.CENTER)
     p5.imageMode(p5.CENTER)
-    print('use space bar to shoot the invaders..')
+    print('use space bar to shoot the invaders...')
 
 def draw():
     global spaceship

@@ -1,0 +1,26 @@
+import js
+p5 = js.window
+
+sound = None
+
+def setup():
+    p5.createCanvas(300, 300) 
+    global sound
+    sound = p5.loadSound('shoot.wav')
+    print('finished setup') 
+    
+def draw():
+    p5.background(255)           
+
+def keyPressed(event):
+    pass 
+
+def keyReleased(event):
+    pass
+
+def mousePressed(event):
+    print('play sound..')
+    sound.play()
+
+def mouseReleased(event):
+    pass

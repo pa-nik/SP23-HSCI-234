@@ -95,7 +95,7 @@ Examples below can be viewed and run on GitHub Pages at:
 ### class 10   
    
 [In-Class Practice](class10/practice-examples)  
-[Space Invaders V2](class10/space-invaders-v2) -  Template for version 2 of Space Invaders game  
+[Space Invaders V2](class10/space-invaders-v2) - version 2 of Space Invaders game  
   
 ### extra examples   
    

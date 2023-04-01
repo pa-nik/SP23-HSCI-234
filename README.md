@@ -100,3 +100,4 @@ Examples below can be viewed and run on GitHub Pages at:
 ### extra examples   
    
 [Sound Example](extras/sound-example) -  using the `p5.sound` library    
+[Rotate to Cursor](extras/rotate-to-cursor) -  turning towards cursor suing `p5.atan2` function  

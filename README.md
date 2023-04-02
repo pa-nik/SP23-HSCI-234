@@ -99,5 +99,7 @@ Examples below can be viewed and run on GitHub Pages at:
   
 ### extra examples   
    
+[10.1 while Loop](class10/10.1-while-loop) - `while` loop example  
+[10.2 2D List](class10/10.2-2d-list) - 2D list (list of lists) example  
 [Sound Example](extras/sound-example) -  using the `p5.sound` library    
 [Rotate to Cursor](extras/rotate-to-cursor) -  angle to cursor using `p5.atan2`  

@@ -94,12 +94,12 @@ Examples below can be viewed and run on GitHub Pages at:
   
 ### class 10   
    
+[10.1 while Loop](class10/10.1-while-loop) - `while` loop example  
+[10.2 2D List](class10/10.2-2d-list) - 2D list (list of lists) example  
 [In-Class Practice](class10/practice-examples)  
 [Space Invaders V2](class10/space-invaders-v2) - version 2 of Space Invaders game  
   
 ### extra examples   
    
-[10.1 while Loop](class10/10.1-while-loop) - `while` loop example  
-[10.2 2D List](class10/10.2-2d-list) - 2D list (list of lists) example  
 [Sound Example](extras/sound-example) -  using the `p5.sound` library    
 [Rotate to Cursor](extras/rotate-to-cursor) -  angle to cursor using `p5.atan2`  
